@@ -1,1 +1,1 @@
-# RNN-LSTM-GRU
+# RNN-VAE
